@@ -1,0 +1,9 @@
+{
+	"name": "skazuredatafactoryuat1",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98ee4fb9-6626-43ba-a778-3d574c476ca8",
+		"tenantId": "cbd0bab6-5a9d-44d8-b309-43597b67c012"
+	}
+}
